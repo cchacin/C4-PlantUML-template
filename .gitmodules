@@ -1,0 +1,6 @@
+[submodule "C4-PlantUML"]
+	path = C4-PlantUML
+	url = https://github.com/plantuml-stdlib/C4-PlantUML.git
+[submodule "plantuml-icon-font-sprites"]
+	path = plantuml-icon-font-sprites
+	url = https://github.com/tupadr3/plantuml-icon-font-sprites.git

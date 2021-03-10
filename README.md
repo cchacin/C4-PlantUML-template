@@ -12,10 +12,6 @@ This is a template to easily generate [PlantUML][1] diagrams with the [C4 Model]
 - Only requires `plantuml` binary in the `PATH` environment
 
 
-[1]: http://en.plantuml.com/
-[2]: https://c4model.com/
-[3]: https://github.com/plantuml-stdlib/C4-PlantUML
-[4]: https://github.com/tupadr3/plantuml-icon-font-sprites/
 
 > C4-PlantUML combines the benefits of [PlantUML][1] and the [C4 model][2] for providing a simple way of describing and communicate software architectures – especially during up-front design sessions – with an intuitive language using open source and platform independent tools.
 
@@ -53,4 +49,9 @@ $ make
 
 ### All PNG diagrams generated under `diagrams/*.png`
 
-[![]](./diagrams/context.png)
+![example-diagram](./diagrams/context.png)
+
+[1]: http://en.plantuml.com/
+[2]: https://c4model.com/
+[3]: https://github.com/plantuml-stdlib/C4-PlantUML
+[4]: https://github.com/tupadr3/plantuml-icon-font-sprites/
